@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn ABC</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="bengali">Bengali</string>
+    <string name="urdu">Urdu</string>
+</resources>
